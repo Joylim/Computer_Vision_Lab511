@@ -1,8 +1,8 @@
 #Robotics and Visual SLAM 
 =====================
-<font size=5>This project is used to share and discussion in computer vision at Lab511 in Tsinghua University.</font>
+This project is used to share and discussion in computer vision at Lab511 in Tsinghua University.
 ## Computer Vision
------------------
+------------------------
 ### Resourece
 *	[awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
 *	[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
