@@ -19,3 +19,8 @@ http://rpg.ifi.uzh.ch/publications.html -->
 	*	[LSD-SLAM](http://vision.in.tum.de/research/vslam/lsdslam)
 	*	[PTAM](http://www.robots.ox.ac.uk/~gk/PTAM/)
 	*	[RGBD-SLAM](http://felixendres.github.io/rgbdslam_v2/)
+
+### Slides
+*	Week0
+	+	[Bags of Binary Words for Fast Place Recognition in Image Sequences](slides/Week0-hy-0907.pdf)
+*	Week1
