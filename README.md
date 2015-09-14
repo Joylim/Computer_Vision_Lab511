@@ -1,6 +1,15 @@
 ##Robotics and Visual SLAM 
 <font size=6>This project is used to share and discussion in computer vision at Lab511 in Tsinghua University.</font>
 
+###   TODO
++	Papers
+	*	Huang Yao:  Robust loop closing over time for pose graph SLAM
+	*	Guo Yao:
+	*	Liqile:
++	Experiment
++	Code
+
+
 ### Resourece
 *	[awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
 *	[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
@@ -24,3 +33,5 @@ http://rpg.ifi.uzh.ch/publications.html -->
 *	Week0
 	+	[Bags of Binary Words for Fast Place Recognition in Image Sequences](slides/Week0-hy-0907.pdf)
 *	Week1
+
+###  Datasets
