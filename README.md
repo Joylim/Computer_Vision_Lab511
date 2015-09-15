@@ -32,6 +32,9 @@ http://rpg.ifi.uzh.ch/publications.html -->
 ### Slides
 *	Week0
 	+	[Bags of Binary Words for Fast Place Recognition in Image Sequences](slides/Week0-hy-0907.pdf)
+	+	[Parallel Tracking and Mapping for Small AR Workspaces](slides/week0-guoyao-PTAM.pdf)
 *	Week1
+	+	[Scale Drift-Aware Large Scale Monocular SLAM](slides/Week1-hy-0915.pdf)
+	+	[ORB-SLAM: a Versatile and Accurate Monocular SLAM](slides/Week1-lql-0915.pdf)
 
 ###  Datasets
