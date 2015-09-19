@@ -4,7 +4,7 @@
 ###   TODO
 +	Papers
 	*	Huang Yao:  Robust loop closing over time for pose graph SLAM
-	*	Guo Yao:
+	*	Guo Yao:  MonoSLAM:Real-Time Single Camera SLAM
 	*	Liqile:
 +	Experiment
 +	Code
