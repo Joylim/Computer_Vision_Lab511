@@ -7,7 +7,9 @@
 	*	Guo Yao:  MonoSLAM:Real-Time Single Camera SLAM
 	*	Liqile:
 +	Experiment
-+	Code
++	Code(Open source later)
+	*	Loop Closing(80%)
+	*	Mapping Thread
 
 
 ### Resourece
@@ -36,5 +38,7 @@ http://rpg.ifi.uzh.ch/publications.html -->
 *	Week1
 	+	[Scale Drift-Aware Large Scale Monocular SLAM](slides/Week1-hy-0915.pdf)
 	+	[ORB-SLAM: a Versatile and Accurate Monocular SLAM](slides/Week1-lql-0915.pdf)
+*	Week5
+	+	[SVO:Fast Semi-Direct Monocular Visual Odometry](slides/Week5-hy-1023.pdf)
 
 ###  Datasets
