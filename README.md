@@ -46,7 +46,8 @@ http://rpg.ifi.uzh.ch/publications.html -->
 	+	[MIT6.869](http://people.csail.mit.edu/torralba/courses/6.869/6.869.computervision.htm)
 	+	[CSE 576](http://courses.cs.washington.edu/courses/cse576/15sp/)
 	+	[UCB CS280](http://www.eecs.berkeley.edu/~trevor/CS280.html)
-	+	[Stanford CV-Lists](http://vision.stanford.edu/teaching.html)     
+	+	[Stanford CV-Lists](http://vision.stanford.edu/teaching.html)	
+*	Deep Learning     
 
 ### Slides
 *	Week0
