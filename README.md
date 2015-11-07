@@ -54,7 +54,9 @@ http://rpg.ifi.uzh.ch/publications.html -->
 	+	[Parallel Tracking and Mapping for Small AR Workspaces](slides/week0-guoyao-PTAM.pdf)
 *	Week1
 	+	[Scale Drift-Aware Large Scale Monocular SLAM](slides/Week1-hy-0915.pdf)
-	+	[ORB-SLAM: a Versatile and Accurate Monocular SLAM](slides/Week1-lql-0915.pdf)
+	+	[ORB-SLAM: a Versatile and Accurate Monocular SLAM](slides/Week1-lql-0915.pdf)		
+*	Week2
+	+	[Robust Loop Closing Over time for Pose Graph SLAM](slide/Week2-hy-09-23)   
 *	Week5
 	+	[SVO:Fast Semi-Direct Monocular Visual Odometry](slides/Week5-hy-1023.pdf)
 *	Week6
