@@ -29,7 +29,7 @@ http://rpg.ifi.uzh.ch/publications.html -->
 	+ [帝国理工 Robot Vision](http://wp.doc.ic.ac.uk/robotvision/publications/)
 	+ [TUM](http://vision.in.tum.de/research)
 	+ [Oxford](http://www.robots.ox.ac.uk/)
-*	经典单目SLAM
+*	经典SLAM
 	*	[ORB-SLAM](http://webdiis.unizar.es/~raulmur/orbslam/)
 	*	[LSD-SLAM](http://vision.in.tum.de/research/vslam/lsdslam)
 	*	[PTAM](http://www.robots.ox.ac.uk/~gk/PTAM/)
@@ -39,7 +39,14 @@ http://rpg.ifi.uzh.ch/publications.html -->
 *	Visual Odometry
 	+	[VO-part1](papers/VO_part1.pdf)
 	+	[VO-part2](papers/VO_part2.pdf)
-*	MonoSLAM
+*	MonoSLAM     
+
+### Online Courses
+*	Computer Vision    
+	+	[MIT6.869](http://people.csail.mit.edu/torralba/courses/6.869/6.869.computervision.htm)
+	+	[CSE 576](http://courses.cs.washington.edu/courses/cse576/15sp/)
+	+	[UCB CS280](http://www.eecs.berkeley.edu/~trevor/CS280.html)
+	+	[Stanford CV-Lists](http://vision.stanford.edu/teaching.html)     
 
 ### Slides
 *	Week0
