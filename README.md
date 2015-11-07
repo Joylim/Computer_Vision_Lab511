@@ -2,13 +2,17 @@
 <font size=6>This project is used to share and discussion in computer vision at Lab511 in Tsinghua University.</font>
 
 ###   TODO
++	Knowledge Share
+	* Chapter8 (computer vision algorithms and applications)  Huangyao
+	* Chapter9 (computer vision algorithms and applications)  Guoyao
 +	Papers
-	*	Huang Yao:  Robust loop closing over time for pose graph SLAM
-	*	Guo Yao:  MonoSLAM:Real-Time Single Camera SLAM
+	*	Huang Yao:  
+	*	Guo Yao: 
 	*	Liqile:
 +	Experiment
+	*	NewCollege
 +	Code(Open source later)
-	*	Loop Closing(80%)
+	*	Loop Closing
 	*	Mapping Thread
 
 
@@ -29,7 +33,13 @@ http://rpg.ifi.uzh.ch/publications.html -->
 	*	[ORB-SLAM](http://webdiis.unizar.es/~raulmur/orbslam/)
 	*	[LSD-SLAM](http://vision.in.tum.de/research/vslam/lsdslam)
 	*	[PTAM](http://www.robots.ox.ac.uk/~gk/PTAM/)
-	*	[RGBD-SLAM](http://felixendres.github.io/rgbdslam_v2/)
+	*	[RGBD-SLAM](http://felixendres.github.io/rgbdslam_v2/)      
+	
+### Tutorials
+*	Visual Odometry
+	+	[VO-part1](papers/VO_part1.pdf)
+	+	[VO-part2](papers/VO_part2.pdf)
+*	MonoSLAM
 
 ### Slides
 *	Week0
@@ -40,5 +50,7 @@ http://rpg.ifi.uzh.ch/publications.html -->
 	+	[ORB-SLAM: a Versatile and Accurate Monocular SLAM](slides/Week1-lql-0915.pdf)
 *	Week5
 	+	[SVO:Fast Semi-Direct Monocular Visual Odometry](slides/Week5-hy-1023.pdf)
+*	Week6
+	+	[SFM](slides/Week6-hy-SFM)
 
 ###  Datasets
